@@ -88,8 +88,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Sooryaprabhath/Sooryaprabhath/output/snake.svg" alt="Snake animation" />
 
 ###
