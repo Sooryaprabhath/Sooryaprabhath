@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sooryaprabhath and I'm a Front end developer.</h2>
+<h2 align="left">Hi 👋! My name is Sooryaprabhath and I'm a Front-end React developer.</h2>
 
 ###
 
